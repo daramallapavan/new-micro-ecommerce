@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bee2bd85-145e-4c76-94bb-76365f46e56b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/controller/CartController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/controller/CategoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/controller/ImageController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/controller/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/dto/AddToCartDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/dto/ImageDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/dto/ProductRequestDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/dto/ProductUpdateDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/dto/UserRegisterDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/entity/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/entity/CartItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/entity/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/entity/Image.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/entity/OrderItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/entity/Orders.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/entity/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/enums/OrderStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/product/ImageUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/product/NewImageController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/product/NewImageData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/product/NewImageDataRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/product/NewImageResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/product/NewImageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/product/ProductNew.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/product/ProductNewController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/product/ProductNewRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/product/ProductNewService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/repository/CartItemRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/repository/CartRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/repository/CategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/repository/ImageRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/repository/OrderItemRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/repository/OrderRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/service/CartItemService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/service/CartItemServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/service/CartService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/service/CartServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/service/CategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/service/CategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/service/ImageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/service/ImageServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/service/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/service/OrderServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/service/ProductServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/java/com/example/MergeJavaAndReactBasic/service/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECOMMERCE-SPRINGBOOT/src/main/resources/application.yml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2mLeV0ZIBq9mQgMoxCE1NuoaQmC" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/new project&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bee2bd85-145e-4c76-94bb-76365f46e56b" name="Changes" comment="" />
+      <created>1726860303231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726860303231</updated>
+    </task>
+    <servers />
+  </component>
+</project>
